@@ -1,4 +1,4 @@
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kasperofzeau&badges=4&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px; width: 250px"/>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kasperofzeau&badges=4&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px;width:250px"/>
 
 Here are some ideas to get you started:
 
