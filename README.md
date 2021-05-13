@@ -6,3 +6,9 @@
 > <a href="https://twitter.com/KasperOfzeau"><img alt="twitter" width='40' src="img/twitter.png"/></a> <a href="https://www.linkedin.com/in/kasperbeljaars/"><img alt="linkedin" width='40' src="img/linkedin.svg"/></a>
 ### ⚡ Fun fact:
 > I have a collection of over two hundred vinyl records. <a href="https://www.discogs.com/user/KasperOfzeau/collection" target="_blank">My collection</a>
+
+---
+
+My [portfolio website](https://kasperofzeau.nl/)  
+My [CodersRank account](https://profile.codersrank.io/user/kasperofzeau)  
+My [LinkedIn account](https://www.linkedin.com/in/kasperbeljaars/)
