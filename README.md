@@ -11,4 +11,3 @@
 
 My [portfolio website](https://kasperofzeau.nl/)  
 My [CodersRank account](https://profile.codersrank.io/user/kasperofzeau)  
-My [LinkedIn account](https://www.linkedin.com/in/kasperbeljaars/)
