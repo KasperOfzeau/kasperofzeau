@@ -1,3 +1,5 @@
+The place to put all my experiments and projects with programming. 😎
+
 ### 🌱 I’m currently learning 
 > <img alt="react" width='40' src="img/react.svg"/>&nbsp;<img alt="TypeScript" height='40' src="img/typescript.svg"/>&nbsp;<img alt="laravel" width='40' src="img/laravel.png"/>&nbsp;<img alt="vuejs" width='40' src="img/vue.png"/>
 ### 💬 Ask me about
