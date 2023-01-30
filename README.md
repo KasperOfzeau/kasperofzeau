@@ -1,7 +1,7 @@
 The place to put all my experiments and projects with programming. 😎
 
 ### 🌱 I’m currently learning 
->  <img alt="react-native" width='60' src="img/1631026680-logo-react-native.png"/><img alt="laravel" width='40' src="img/laravel.png"/>
+><img alt="react-native" width='120' src="img/timber-logo.svg"/> &nbsp; <img alt="laravel" width='80' src="img/less_logo.png"/>
 ### 💬 Ask me about
 > <img alt="JavaScript" height='40' src="img/javascript.svg"/>&nbsp;<img alt="PHP" height='25' src="img/php.svg"/>&nbsp;<img alt="HTML" width='30' src="img/html.svg"/>&nbsp;<img alt="CSS" width='50' src="img/css.svg"/>&nbsp;<img alt="SASS" height='40' src="img/sass.svg"/>&nbsp;<img alt="TypeScript" height='40' src="img/typescript.svg"/>&nbsp;<img alt="Github" height='40' src="img/github.svg"/> 
 ### 📫 How to reach me:
